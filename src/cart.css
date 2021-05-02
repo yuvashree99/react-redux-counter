@@ -1,0 +1,9 @@
+.product,.product1 {
+    border-style: groove;
+    border-spacing:15px;
+    
+}
+.button{
+     display :inline-block;
+}
+
